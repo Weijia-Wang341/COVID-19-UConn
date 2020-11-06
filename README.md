@@ -1,4 +1,4 @@
-# Spatial modelling of COVID-19 lockdown strategies - UConn
+# Spatial Modeling of COVID-19 Lockdown Strategies - UConn
 
 ## Introduction
 In the United States, the number of cases of the COVID-19 is increasing constantly. Until Oct 28, 2020, according to John Hopkins Coronavirus Resource Center, there were 8,856,413 confirmed cases in the United States and 72,183 cases reported in one single day. After a few months of the lockdown in March, most of the states are reopening, including retail stores, restaurants, and recreation. As a college student, COVID-19 is affecting normal student life, residence life, and so on. 
