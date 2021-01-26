@@ -7,9 +7,17 @@ In the United States, the number of cases of the COVID-19 is increasing constant
 
 In this study, we focus on extending a mathematical model, Susceptible-Infected-Recovered (SIR) model to estimate the Covid-19 infectious rate and recovery rate at the Storrs campus of University of Connecticut (UConn), which is a public land grant research university located in the northeast of the United State. After finding out the parameters using SIR, we use the Agent-Based Modeling (ABM) to simulate different cases to predict and evaluate the risks of different places on campus. Our primary goal is to extend the SIR model into the spatial form and using QGIS and NetLogo to visualize the spreading. Three scenarios are created based on varying restrictions. 
 
-The baseline scheme means that all restrictions will be enforced (link of the baseline scenario: https://github.com/Weijia-Wang341/COVID-19-UConn/issues/1#issue-732845238). The second scenario is obtained by implementing 50% of its regular indoor capacity (link: https://github.com/Weijia-Wang341/COVID-19-UConn/issues/2#issue-732854930). The third scenario follows the Phase 3 Reopen Rules by Sector in Connecticut, which is 50% capacity of religious gatherings, and 75% indoor capacity of restaurants (link: https://github.com/Weijia-Wang341/COVID-19-UConn/issues/3#issue-732855606).
+The baseline scheme means that all restrictions will be enforced (link of the baseline scenario: https://github.com/Weijia-Wang341/COVID-19-UConn/issues/1#issue-732845238). 
+![baseline](https://user-images.githubusercontent.com/73563140/105911181-eba5bb00-5ff7-11eb-96fa-76caaf1a0cf9.png)
 
-![Baseline]("https://user-images.githubusercontent.com/73563140/97655448-7ac42680-1a3b-11eb-8ff2-55d5bd97ec2a.png")
+
+The second scenario is obtained by implementing 50% of its regular indoor capacity (link: https://github.com/Weijia-Wang341/COVID-19-UConn/issues/2#issue-732854930). 
+![case2](https://user-images.githubusercontent.com/73563140/105911300-0aa44d00-5ff8-11eb-93e1-4cd97b8a88a1.png)
+
+
+The third scenario follows the Phase 3 Reopen Rules by Sector in Connecticut, which is 50% capacity of religious gatherings, and 75% indoor capacity of restaurants (link: https://github.com/Weijia-Wang341/COVID-19-UConn/issues/3#issue-732855606).
+![case3](https://user-images.githubusercontent.com/73563140/105911336-15f77880-5ff8-11eb-99ba-54520f183b92.png)
+
 
 ## Google Drive Link:
 https://drive.google.com/drive/folders/1_jYnKv2g0iEVNxcoHnPGAOg_kZN0A9Xy?usp=sharing
