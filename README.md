@@ -9,7 +9,7 @@ In this study, we focus on extending a mathematical model, Susceptible-Infected-
 
 The baseline scheme means that all restrictions will be enforced (link of the baseline scenario: https://github.com/Weijia-Wang341/COVID-19-UConn/issues/1#issue-732845238). The second scenario is obtained by implementing 50% of its regular indoor capacity (link: https://github.com/Weijia-Wang341/COVID-19-UConn/issues/2#issue-732854930). The third scenario follows the Phase 3 Reopen Rules by Sector in Connecticut, which is 50% capacity of religious gatherings, and 75% indoor capacity of restaurants (link: https://github.com/Weijia-Wang341/COVID-19-UConn/issues/3#issue-732855606).
 
-
+![Baseline]("https://github.com/Weijia-Wang341/COVID-19-UConn/issues/1#issue-732845238")
 
 ## Google Drive Link:
 https://drive.google.com/drive/folders/1_jYnKv2g0iEVNxcoHnPGAOg_kZN0A9Xy?usp=sharing
