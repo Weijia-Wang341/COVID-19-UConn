@@ -20,5 +20,5 @@ The third scenario follows the Phase 3 Reopen Rules by Sector in Connecticut, wh
 ![case3](https://user-images.githubusercontent.com/73563140/105911336-15f77880-5ff8-11eb-99ba-54520f183b92.png)
 
 
-## Link:
-[Research Paper](doi.org/10.22541/au.161005752.20540083/v1)
+## Research Paper Link:
+[Spatial Analysis of COVID-19 Risk Based on Different Lockdown Strategies - a Case Study for Storrs Campus Community, University of Connecticut](doi.org/10.22541/au.161005752.20540083/v1)
