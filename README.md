@@ -19,5 +19,5 @@ The third scenario follows the Phase 3 Reopen Rules by Sector in Connecticut, wh
 ![case3](https://user-images.githubusercontent.com/73563140/105911336-15f77880-5ff8-11eb-99ba-54520f183b92.png)
 
 
-## Google Drive Link:
-https://drive.google.com/drive/folders/1_jYnKv2g0iEVNxcoHnPGAOg_kZN0A9Xy?usp=sharing
+## Link:
+doi.org/10.22541/au.161005752.20540083/v1
