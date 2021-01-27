@@ -21,4 +21,4 @@ The third scenario follows the Phase 3 Reopen Rules by Sector in Connecticut, wh
 
 
 ## Link:
-doi.org/10.22541/au.161005752.20540083/v1
+[Research Paper](doi.org/10.22541/au.161005752.20540083/v1)
